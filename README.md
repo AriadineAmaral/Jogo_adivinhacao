@@ -1,2 +1,3 @@
 # Jogo_adivinhacao
-Projeto desenvolvido junto ao curso Alura
+
+Jogo desenvolvido no curso | Python: crie a sua primeira aplicação da instituição Alura
